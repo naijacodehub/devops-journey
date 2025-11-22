@@ -18,4 +18,13 @@ Goal → Become a Junior DevOps Engineer in 6 months.
 📦 Mini project  
 🔜 What’s next
 
+
+Day 2: Created a Bash script that analyzes system & application logs.
+- Handles array patterns
+- Uses Bash Strict Mode (set -euo pipefail)
+- Reads files safely using mapfile + find
+- Counts ERROR / FATAL / CRITICAL issues
+- First step into real DevOps automation 🚀
+
+
 I will post every progress here — follow the repo for updates!
